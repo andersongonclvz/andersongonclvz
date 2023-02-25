@@ -9,7 +9,9 @@ Conhecimento em HTML e CSS
 - ✉️ andersongonclvz@gmail.com
 <br>
 
-![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=andersongonclvz&show_icons=true&theme=nord)
+![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=andersongonclvz&show_icons=true&theme=nord)<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersongonclvz&layout=compact&theme=nord)](https://github.com/andersongonclvz/github-readme-stats)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersongonclvz/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andersongonclvz/)
