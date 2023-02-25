@@ -1,4 +1,4 @@
-# Seja bem-vindo(a) ao meu GitHub! 😀
+# Seja bem-vindo(a) ao meu GitHub! 👋🏼
 
 Atualmente estudando Desenvolvimento Front End<br>
 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas<br>
