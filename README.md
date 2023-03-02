@@ -5,7 +5,7 @@ Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas<br>
 Conhecimento em HTML e CSS
 
 - 🌍 Rio Grande do Sul 🇧🇷
-- 🧠 Concluindo CSS
+- 🧠 Iniciando JavaScript
 - ✉️ andersongonclvz@gmail.com
 <br>
 
