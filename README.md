@@ -3,12 +3,9 @@
 Atualmente estudando Desenvolvimento Front End<br>
 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas<br>
 Conhecimento em HTML e CSS
-
-- 🌍 Rio Grande do Sul 🇧🇷
-- 🧠 Finalizando CSS
-- ✉️ andersongonclvz@gmail.com
 <br>
-
+<br>
+<br>
 ![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=andersongonclvz&show_icons=true&theme=github_dark )<br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersongonclvz&layout=compact&theme=github_dark)](https://github.com/andersongonclvz/github-readme-stats)
