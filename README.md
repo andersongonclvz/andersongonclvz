@@ -13,7 +13,7 @@ Espero que você goste dos meus projetos e sinta-se à vontade para explorar e d
 ![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=andersongonclvz&show_icons=true&theme=github_dark )<br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersongonclvz&layout=compact&theme=github_dark)](https://github.com/andersongonclvz/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersongonclvz&hide_progress=true)](https://github.com/andersongonclvz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andersongonclvz)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersongonclvz/)
