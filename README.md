@@ -1,6 +1,7 @@
 # Seja muito bem-vindo(a) ao meu GitHub! | @andercoding
 
-Eu me chamo Anderson Gonçalves e tenho conhecimentos sólidos em HTML/CSS e SASS. No momento, estou focando meus estudos em Python para aprimorar minhas habilidades e desenvolver novos projetos.
+Eu me chamo Anderson Gonçalves e tenho conhecimentos sólidos em HTML/CSS e SASS.<br>
+No momento, estou focando meus estudos em Python para aprimorar minhas habilidades e desenvolver novos projetos.
 Aqui, compartilho todos os meus projetos pessoais como uma forma de mostrar um pouco da minha jornada na programação. Espero que você goste dos meus projetos e sinta-se à vontade para explorar e dar um feedback. Agradeço sua visita!
 <br>
 <br>
