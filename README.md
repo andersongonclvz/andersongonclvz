@@ -4,9 +4,9 @@ Eu me chamo Anderson Gonçalves e possuo conhecimento em HTML/CSS e SASS.<br>
 No momento, estou focando meus estudos em Python para aprimorar minhas habilidades e desenvolver novos projetos.
 <br>
 <br>
-Aqui, compartilho todos os meus projetos pessoais como uma forma de mostrar um pouco da minha jornada na programação.
+Aqui, compartilho todos os meus projetos pessoais como uma forma de compartilhar um pouco da minha jornada na programação.
 <br>
-Espero que você goste dos meus projetos e sinta-se à vontade para explorar e dar um feedback. Agradeço sua visita!
+Fico feliz em compartilhar meus projetos e adoraria receber seu feedback. Sinta-se à vontade para deixar suas impressões. Agradeço sua visita!
 <br>
 <br>
 <br>
