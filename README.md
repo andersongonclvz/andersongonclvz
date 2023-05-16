@@ -6,7 +6,9 @@ No momento, estou focando meus estudos em Python para aprimorar minhas habilidad
 <br>
 Aqui, compartilho todos os meus projetos pessoais como uma forma de mostrar um pouco da minha jornada na programação.
 <br>
-Fico feliz em compartilhar meus projetos e adoraria receber seu feedback. Sinta-se à vontade para deixar suas impressões. Agradeço sua visita!
+Fico feliz em compartilhar meus projetos e adoraria receber seu feedback. Sinta-se à vontade para deixar suas impressões.
+<br>
+Agradeço sua visita!
 <br>
 <br>
 <br>
